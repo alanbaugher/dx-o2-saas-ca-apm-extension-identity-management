@@ -1,4 +1,4 @@
-# CA Identity Management Extension
+# CA Identity Management Extension   [Modify for use with DX O2 (aka APM SaaS)]
 
 # Description
 This (Infrastructure) agent extension provides availability and functional checks against CA Identity Manager and CA Advanced Authentication using the SOAP APIs provided by the two solutions.
